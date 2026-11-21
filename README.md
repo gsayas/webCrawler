@@ -19,7 +19,7 @@ The worker count is optional and defaults to `8`.
 
 ## Docs
 
-* [A diagram of the solution](docs/diagrams/crawler-design.excalidraw)
+* [A diagram of the solution](docs/diagrams/crawler-design.png)
 * [A summary of the design](docs/solution-design.md)
 * [Architectural decisions records](adr)
 * [Testing Strategy](docs/testing-strategy.md)
